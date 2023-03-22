@@ -18,14 +18,14 @@ The goal is to look at how Louise's play "Fever" relates to the different campai
 
 Considering Louise was interested in examining the influence of the Play's Launch Date, the data was sorted by Category "theatre" and the results were structured by Months for all of the campaigns over the years.
 
-![Theater Outcomes vs Launch](/resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
 From the second analysis basis the funding Goals, the data was filtered by Subcategory "Plays" amd presented "Successful" and "Failed" Outcomes in percentage over the Range of Funding Goals Category.
 
-![Outcomes vs Goals](/resources/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](kickstarter-analysis/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -53,6 +53,8 @@ The data layout the countries and the outcomes of the campaigns, but it limits t
 
     - We could create a graph presenting which Country has better success rate than others.
     - Country wise break-up of the Number of Backers for the successful campaigns.
-    ![Number_of_Backers](/resources/Number_of_Backers.png)
+    ![Number_of_Backers](kickstarter-analysis/resources/Number_of_Backers.png)
     - In which country Plays are more Successful.
-    ![Countrywise_outcomes](/resources/Countrywise_outcomes.png)
+    ![Countrywise_outcomes](kickstarter-analysis/resources/Countrywise_outcomes.png)
+
+    

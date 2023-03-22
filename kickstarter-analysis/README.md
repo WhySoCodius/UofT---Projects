@@ -55,6 +55,7 @@ The data layout the countries and the outcomes of the campaigns, but it limits t
     - Country wise break-up of the Number of Backers for the successful campaigns.
     ![Number_of_Backers](/kickstarter-analysis/resources/Number_of_Backers.png)
     - In which country Plays are more Successful.
+    
     ![Countrywise_outcomes](/kickstarter-analysis/resources/Countrywise_outcomes.png)
 
     
